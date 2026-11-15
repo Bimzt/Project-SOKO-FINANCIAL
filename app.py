@@ -3,6 +3,8 @@ import pandas as pd
 import numpy as np
 import altair as alt
 
+from modules.peer_value_screener import render_peer_value_screener
+
 # --- PAGE CONFIGURATION ---
 st.set_page_config(
     page_title="IDX Corporate Financial Intelligence Dashboard",
@@ -178,8 +180,8 @@ filtered_df = filtered_df[filtered_df['solvency_zone'].isin(selected_zone)]
 # --- MAIN DASHBOARD HEADER ---
 st.title("📈 IDX Corporate Financial Intelligence Dashboard")
 st.markdown("""
-Analisis kesehatan finansial komprehensif atas **604 Emiten Terdaftar di Bursa Efek Indonesia (BEI)**.
-Mengintegrasikan diagnostik **DuPont 3-Way**, **Altman Z''-Score (Emerging Markets)**, dan **Forensic Earnings Quality (Sloan Accrual)** guna mendukung mitigasi risiko dan alokasi modal strategis.
+Analisis kesehatan finansial komprehensif atas **604 Emiten Terdaftar di Bursa Efek Indonesia (BEI)** (2020–2023).
+Mengintegrasikan diagnostik **DuPont 3-Way**, **Altman Z''-Score (Emerging Markets)**, **Forensic Earnings Quality (Sloan Accrual)**, serta **Sector Enrichment, Valuasi (PER/PBV), dan Peer Comparison**
 """)
 
 # --- EXECUTIVE KPI METRIC CARDS ---
@@ -237,13 +239,14 @@ with kpi5:
     """, unsafe_allow_html=True)
 
 # --- MULTI-TAB EXECUTIVE WORKBENCH ---
-tab_macro, tab_dupont, tab_altman, tab_accrual, tab_drilldown, tab_table = st.tabs([
+tab_macro, tab_dupont, tab_altman, tab_accrual, tab_drilldown, tab_table, tab_screener = st.tabs([
     "🌐 Trajektori Makro (2020-2023)",
     "🎯 Matriks Profitabilitas DuPont",
     "🛡️ Solvabilitas & Altman Z''-Score",
     "🔍 Forensic Earnings Quality (Sloan)",
     "🏢 Single-Company Drill-Down",
-    "📋 Master Data Explorer"
+    "📋 Master Data Explorer",
+    "💎 Peer & Value Screener"
 ])
 
 # TAB 1: MACRO DYNAMICS & POST-PANDEMIC CYCLE
@@ -529,3 +532,6 @@ with tab_table:
         file_name='idx_financial_intelligence_panel.csv',
         mime='text/csv'
     )
+
+with tab_screener:
+    render_peer_value_screener()
