@@ -15,13 +15,13 @@ Proyek ini menghadirkan analisis komprehensif terhadap kinerja keuangan, struktu
 
 Proyek terdiri dari dua komponen utama:
 1. **Interactive Exploratory Data Analysis (EDA) Notebook (`IDX_Financial_Project.ipynb`)**: Pemodelan panel longitudinal, rekayasa rasio keuangan tingkat lanjut, dan visualisasi interaktif Altair.
-2. **Enterprise Decision Support Dashboard (`app.py`)**: Aplikasi web interaktif berbasis Streamlit yang dilengkapi kartu KPI eksekutif, filter dinamis, visualisasi multi-tab, serta fitur *drill-down* profil emiten perorangan dan ekspor data CSV.
+2. **Enterprise Decision Support Dashboard (`app.py`)**: Aplikasi web interaktif berbasis Streamlit yang dilengkapi kartu KPI eksekutif, filter dinamis, visualisasi multi-tab, fitur *drill-down* profil emiten perorangan, *Value Screener* (PER/PBV) & *Peer Comparison* lintas sektor, serta ekspor data CSV.
 
 ---
 
 ## 🔬 Kerangka Analisis & Metodologi
 
-Proyek ini menggunakan empat kerangka kerja analitik akuntansi dan keuangan korporasi:
+Proyek ini menggunakan lima kerangka kerja analitik akuntansi, keuangan korporasi, dan valuasi pasar:
 
 ```mermaid
 flowchart TD
@@ -31,9 +31,12 @@ flowchart TD
     C -->|"Financials & Banking (66)"| E["Analisis Khusus Perbankan<br/>(CAR, NIM, Leverage)"]
     D --> F["Dekomposisi DuPont 3-Way<br/>(Margin × Turnover × Leverage)"]
     D --> G["Forensic Sloan Accrual<br/>(Kas Nyata vs Laba Akuntansi)"]
+    A --> I["Market Enrichment via yfinance<br/>(Sektor, Industri, Harga 2020-2023)"]
+    I --> J["Valuasi PER/PBV & Peer Comparison"]
     F --> H["Streamlit Executive Dashboard & Insights"]
     G --> H
     E --> H
+    J --> H
 ```
 
 ### 1. Pemisahan Sektor Finansial vs Non-Finansial
@@ -56,6 +59,11 @@ $$Z'' = 6.56 X_1 + 3.26 X_2 + 6.72 X_3 + 1.05 X_4$$
 ### 4. Forensic Sloan Accruals (Kualitas Laba)
 Menguji apakah laba bersih yang dilaporkan didukung oleh kas masuk nyata dari operasional atau didorong oleh akrual piutang agresif (*paper profit*):
 $$\text{Accrual Ratio} = \frac{\text{Laba Bersih} - \text{Arus Kas Operasi (CFO)}}{\text{Total Aset}}$$
+
+### 5. Sector Enrichment, Valuasi Pasar (PER/PBV) & Peer Comparison
+Melengkapi dataset fundamental yang belum memiliki metadata deskriptif dengan menarik **Nama Perusahaan, Sektor, Industri, dan Harga Penutupan Akhir Tahun (2020–2023)** melalui `yfinance` (`.JK`):
+$$\text{PER} = \frac{\text{Harga Saham}}{\text{EPS}}, \qquad \text{PBV} = \frac{\text{Harga Saham}}{\text{BVPS}}$$
+* **Cakupan Data:** **575 dari 604 emiten (~95.2%)** berhasil diperkaya dengan metadata sektor dan harga pasar. Sebanyak 29 emiten berstatus `Unknown` akibat *delisting*, suspensi jangka panjang, atau keterbatasan metadata Yahoo Finance dan dikecualikan pada modul *screener*.
 
 ---
 
@@ -82,7 +90,12 @@ $$\text{Accrual Ratio} = \frac{\text{Laba Bersih} - \text{Arus Kas Operasi (CFO)
 Project-SOKO-FINANCIAL/
 ├── IDX_Financial_Project.ipynb     # Notebook EDA lengkap & visualisasi Altair
 ├── app.py                          # Aplikasi Streamlit Intelligence Dashboard
+├── modules/
+│   └── peer_value_screener.py      # Modul Tab Peer Comparison & Value Screener (PER/PBV)
+├── scripts/
+│   └── enrich_yfinance.py          # Skrip penarikan metadata sektor & harga historis (.JK)
 ├── combined_financial_data_idx.csv # Dataset historis keuangan 604 emiten (2020-2023)
+├── idx_market_metadata.csv         # Metadata sektor, industri, & harga penutupan (2020-2023)
 ├── archive.zip                     # Arsip dataset sumber
 └── README.md                       # Dokumentasi resmi proyek
 ```
@@ -104,16 +117,22 @@ cd Project-SOKO-FINANCIAL
 ### 3. Instalasi Pustaka Dependensi
 Pasang seluruh dependensi yang dibutuhkan:
 ```bash
-pip install pandas numpy altair streamlit jupyter nbformat
+pip install pandas numpy altair streamlit jupyter nbformat yfinance
 ```
 
-### 4. Menjalankan Jupyter Notebook
+### 4. *(Opsional)* Memperbarui Metadata Pasar & Sektor
+Dataset `idx_market_metadata.csv` sudah tersedia di repositori. Jika ingin menarik ulang data sektor dan harga historis dari Yahoo Finance:
+```bash
+python scripts/enrich_yfinance.py
+```
+
+### 5. Menjalankan Jupyter Notebook
 Untuk membaca dan menjalankan analisis eksploratif:
 ```bash
 jupyter notebook IDX_Financial_Project.ipynb
 ```
 
-### 5. Menjalankan Dashboard Streamlit
+### 6. Menjalankan Dashboard Streamlit
 Untuk membuka dashboard analitik interaktif:
 ```bash
 streamlit run app.py
@@ -126,13 +145,14 @@ Aplikasi akan otomatis terbuka pada browser Anda di alamat: `http://localhost:85
 
 * **Executive KPI Cards:** Ringkasan pendapatan agregat, laba bersih, median ROE, porsi *Safe Zone*, dan median Altman Z.
 * **Filter Dinamis:** Pemilihan Tahun Fiskal (2020–2023), Segmentasi Sektor (Non-Finansial vs Bank), dan Ambang Batas Solvabilitas.
-* **6 Modul Tab Komprehensif:**
+* **7 Modul Tab Komprehensif:**
   1. `🌐 Trajektori Makro (2020-2023)`: Grafik multi-line pendapatan, kas, dan laba.
   2. `🎯 Matriks Profitabilitas DuPont`: Scatter plot kuadran interaktif dengan tooltip rasio keuangan.
   3. `🛡️ Solvabilitas & Altman Z''-Score`: Diagram batang stacked distribusi zona kebangkrutan tahunan.
   4. `🔍 Forensic Earnings Quality (Sloan)`: Uji paritas laba kas vs laba kertas akrual.
   5. `🏢 Single-Company Drill-Down`: Kartu skor profil keuangan mendalam untuk emiten perorangan.
   6. `📋 Master Data Explorer`: Tabel data interaktif dengan pencarian dan tombol unduh CSV.
+  7. `💎 Peer & Value Screener`: Penyaringan saham berdasarkan batas **PBV**, **PER**, **ROE**, dan **Sektor**, serta perbandingan tren antar-emiten kompetitor (*Head-to-Head Peer Comparison*).
 
 ---
 
@@ -150,6 +170,7 @@ Aplikasi akan otomatis terbuka pada browser Anda di alamat: `http://localhost:85
 
 * **Bahasa Pemrograman:** Python
 * **Pengolahan & Reshaping Data:** Pandas, NumPy
+* **Enrichment Data Pasar:** `yfinance` (Yahoo Finance API)
 * **Visualisasi Data Interaktif:** Altair (Vega-Lite Grammar)
 * **Frontend Dashboard:** Streamlit
 * **Lingkungan Analisis:** Jupyter Notebook
