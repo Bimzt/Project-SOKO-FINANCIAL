@@ -1,0 +1,605 @@
+symbol,company_name,sector,industry,price_2020,price_2021,price_2022,price_2023
+AALI,PT Astra Agro Lestari Tbk,Consumer Defensive,Farm Products,9410.87,7446.98,6535.04,6019.42
+ABBA,PT Mahaka Media Tbk,Communication Services,Publishing,65.15,281.27,151.0,52.0
+ABDA,PT Asuransi Bina Dana Arta Tbk,Financial Services,Insurance - Property & Casualty,5446.37,5769.86,6700.0,5800.0
+ABMM,PT ABM Investama Tbk,Energy,Thermal Coal,522.83,976.86,2456.37,2890.32
+ACES,PT Aspirasi Hidup Indonesia Tbk,Consumer Cyclical,Specialty Retail,1275.97,974.8,387.11,589.91
+ACST,PT Acset Indonusa Tbk,Industrials,Engineering & Construction,440.0,210.0,157.0,136.0
+ADCP,PT Adhi Commuter Properti Tbk,Real Estate,Real Estate - Development,,,67.0,50.0
+ADES,PT Akasha Wira International Tbk,Consumer Defensive,Beverages - Non-Alcoholic,1460.0,3290.0,7175.0,9675.0
+ADHI,PT Adhi Karya (Persero) Tbk,Industrials,Engineering & Construction,1405.53,819.51,484.0,312.0
+ADMF,PT Adira Dinamika Multi Finance Tbk,Financial Services,Credit Services,3948.67,5312.75,6666.98,8778.05
+ADMG,PT. Polychem Indonesia Tbk,Basic Materials,Chemicals,234.0,202.0,151.0,137.0
+ADMR,PT Alamtri Minerals Indonesia Tbk,Basic Materials,Coking Coal,,,1572.27,1261.52
+ADRO,PT Alamtri Resources Indonesia Tbk,Energy,Thermal Coal,426.01,760.55,1361.35,1081.87
+AGII,PT Samator Indo Gas Tbk,Basic Materials,Chemicals,875.23,1476.35,1898.61,1491.39
+AGRO,PT Bank Raya Indonesia Tbk,Financial Services,Banks - Regional,1012.64,1810.0,404.0,310.0
+AGRS,PT Bank IBK Indonesia Tbk,Financial Services,Banks - Regional,142.96,158.83,90.0,83.0
+AISA,PT FKS Food Sejahtera Tbk,Consumer Defensive,Packaged Foods,390.0,192.0,143.0,144.0
+AKPI,PT Argha Karya Prima Industry Tbk,Consumer Cyclical,Packaging & Containers,491.14,1039.99,1162.8,716.96
+AKRA,PT AKR Corporindo Tbk,Energy,Oil & Gas Refining & Marketing,429.46,577.77,1020.57,1196.19
+ALDO,PT Alkindo Naratama Tbk,Basic Materials,Paper & Paper Products,271.01,496.77,400.68,463.67
+ALII,PT Ancara Logistics Indonesia Tbk,Industrials,Marine Shipping,,,,
+ALMI,PT Alumindo Light Metal Industry Tbk,Basic Materials,Aluminum,248.0,300.0,272.0,192.0
+AMAG,PT Asuransi Multi Artha Guna Tbk,Financial Services,Insurance - Property & Casualty,126.78,219.29,263.06,224.09
+AMAN,PT Makmur Berkah Amanda Tbk,Real Estate,Real Estate - Development,308.57,519.8,698.71,118.93
+AMAR,PT Bank Amar Indonesia Tbk,Financial Services,Banks - Regional,237.59,324.6,202.2,278.9
+AMFG,PT Asahimas Flat Glass Tbk,Basic Materials,Building Materials,2461.14,4047.2,5121.08,5522.92
+AMMN,PT Amman Mineral Internasional Tbk,Basic Materials,Other Precious Metals & Mining,,,,6550.0
+AMOR,PT Ashmore Asset Management Indonesia Tbk,Financial Services,Asset Management,1069.85,1409.61,1047.76,798.0
+AMRT,PT Sumber Alfaria Trijaya Tbk,Consumer Defensive,Grocery Stores,727.45,1116.42,2460.37,2744.43
+ANDI,"PT Andira Agro, Tbk",Consumer Defensive,Farm Products,53.0,50.0,50.0,50.0
+ANJT,PT Austindo Nusantara Jaya Tbk,Consumer Defensive,Farm Products,671.82,910.18,639.14,745.0
+ANTM,PT Antam (Persero) Tbk,Basic Materials,Gold,1487.57,1742.31,1561.29,1396.29
+APEX,PT Apexindo Pratama Duta Tbk,Energy,Oil & Gas Drilling,410.0,850.0,170.0,166.0
+APIC,PT Pacific Strategic Financial Tbk,Financial Services,Insurance - Life,785.0,1115.0,1130.0,1145.0
+APLN,PT Agung Podomoro Land Tbk,Real Estate,Real Estate - Development,188.0,122.0,154.0,129.0
+ARCI,PT Archi Indonesia Tbk,Basic Materials,Gold,,547.37,321.64,395.27
+ARGO,PT Argo Pantes Tbk,Consumer Cyclical,Textile Manufacturing,900.0,900.0,900.0,960.0
+ARII,PT Atlas Resources Tbk,Energy,Thermal Coal,396.0,250.0,296.0,218.0
+ARKA,PT Arkha Jayanti Persada Tbk,Industrials,Specialty Business Services,55.0,54.0,50.0,50.0
+ARKO,PT Arkora Hydro Tbk,Utilities,Utilities - Renewable,,,625.0,705.0
+ARMY,,Unknown,Unknown,,,,
+ARNA,PT Arwana Citramulia Tbk,Industrials,Building Products & Equipment,473.15,579.53,758.5,536.6
+ARTI,"PT. Ratu Prabu Energi, Tbk",Energy,Oil & Gas Equipment & Services,50.0,50.0,50.0,5.0
+ARTO,PT Bank Jago Tbk,Financial Services,Banks - Regional,3566.11,16000.0,3720.0,2900.0
+ASDM,PT Asuransi Dayin Mitra Tbk,Financial Services,Insurance - Diversified,280.84,331.17,333.85,373.2
+ASGR,PT Astra Graphia Tbk,Industrials,Specialty Business Services,495.42,521.87,618.35,604.38
+ASII,PT Astra International Tbk,Industrials,Conglomerates,3936.91,3814.52,3968.3,4363.18
+ASLC,PT Autopedia Sukses Lestari Tbk,Consumer Cyclical,Auto & Truck Dealerships,,,117.3,94.04
+ASMI,PT Asuransi Maximus Graha Persada Tbk,Financial Services,Insurance - Property & Casualty,990.0,260.0,105.0,50.0
+ASRI,PT Alam Sutera Realty Tbk,Real Estate,Real Estate - Development,238.82,159.87,157.89,161.84
+ASRM,PT Asuransi Ramayana Tbk,Financial Services,Insurance - Property & Casualty,341.57,354.56,353.14,352.97
+ASSA,PT Adi Sarana Armada Tbk,Industrials,Rental & Leasing Services,478.65,2711.84,633.04,645.29
+ATIC,PT Anabatic Technologies Tbk,Technology,Information Technology Services,575.0,800.0,392.0,500.0
+ATLA,PT Atlantis Subsea Indonesia Tbk,Energy,Oil & Gas Equipment & Services,,,,
+AUTO,PT Astra Otoparts Tbk,Consumer Cyclical,Auto Parts,747.34,792.65,1056.73,1816.56
+AVIA,PT Avia Avian Tbk,Basic Materials,Specialty Chemicals,,732.67,510.49,422.0
+BABP,PT Bank MNC Internasional Tbk,Financial Services,Banks - Regional,50.0,186.0,101.0,60.0
+BACA,PT Bank Capital Indonesia Tbk,Financial Services,Banks - Regional,376.0,266.0,131.0,132.0
+BAJA,PT Saranacentral Bajatama Tbk,Basic Materials,Steel,116.0,334.0,124.0,123.0
+BALI,PT Bali Towerindo Sentra Tbk,Communication Services,Telecom Services,652.66,742.02,743.68,757.27
+BANK,PT Bank Aladin Syariah Tbk,Financial Services,Banks - Regional,,2035.76,1415.0,1240.0
+BAPA,PT Bekasi Asri Pemula Tbk,Real Estate,Real Estate - Development,50.0,68.0,95.0,67.0
+BATA,PT Sepatu Bata Tbk.,Consumer Cyclical,Footwear & Accessories,1105.0,1105.0,520.0,141.0
+BBCA,PT Bank Central Asia Tbk,Financial Services,Banks - Regional,5680.37,6231.77,7439.64,8382.55
+BBHI,PT Allo Bank Indonesia Tbk,Financial Services,Banks - Regional,85.57,3839.23,1712.11,1251.35
+BBKP,PT Bank KB Indonesia Tbk,Financial Services,Banks - Regional,410.26,266.62,100.72,80.0
+BBLD,PT Buana Finance Tbk,Financial Services,Credit Services,332.45,337.27,563.76,625.01
+BBMD,PT Bank Mestika Dharma Tbk,Financial Services,Banks - Regional,1357.19,1846.89,1990.81,1911.55
+BBNI,PT Bank Negara Indonesia (Persero) Tbk,Financial Services,Banks - Regional,2325.17,2561.21,3564.9,4333.39
+BBRI,PT Bank Rakyat Indonesia (Persero) Tbk,Financial Services,Banks - Regional,2633.17,2923.71,3653.44,4499.57
+BBRM,PT Pelayaran Nasional Bina Buana Raya Tbk,Industrials,Marine Shipping,67.77,67.77,72.0,65.0
+BBSI,PT Krom Bank Indonesia Tbk,Financial Services,Banks - Regional,769.91,4101.83,3160.0,3660.0
+BBTN,PT Bank Tabungan Negara (Persero) Tbk,Financial Services,Banks - Regional,1324.2,1328.04,1181.93,1133.42
+BBYB,PT Bank Neo Commerce Tbk,Financial Services,Banks - Regional,269.09,2455.73,645.0,436.0
+BCAP,PT MNC Kapital Indonesia Tbk,Financial Services,Financial Conglomerates,135.0,62.0,79.0,50.0
+BCIC,PT Bank JTrust Indonesia Tbk,Financial Services,Banks - Regional,700.0,206.0,174.0,120.0
+BCIP,PT Bumi Citra Permai Tbk,Real Estate,Real Estate - Development,75.0,92.0,68.0,60.0
+BDKR,PT Berdikari Pondasi Perkasa Tbk,Industrials,Engineering & Construction,,,,501.73
+BDMN,PT Bank Danamon Indonesia Tbk,Financial Services,Banks - Regional,2499.86,1897.56,2256.49,2395.86
+BEBS,PT Berkah Beton Sadaya Tbk,Basic Materials,Building Materials,,1174.02,740.0,50.0
+BEEF,PT Estika Tata Tiara Tbk,Consumer Defensive,Packaged Foods,138.54,65.81,57.15,214.74
+BEKS,"PT. Bank Pembangunan Daerah Banten, Tbk",Financial Services,Banks - Regional,88.51,54.0,50.0,50.0
+BELI,PT Global Digital Niaga Tbk,Consumer Cyclical,Internet Retail,,,470.0,482.0
+BEST,PT Bekasi Fajar Industrial Estate Tbk,Real Estate,Real Estate - Development,180.0,112.0,133.0,137.0
+BFIN,PT BFI Finance Indonesia Tbk,Financial Services,Credit Services,413.65,892.36,830.74,996.85
+BGTG,PT Bank Ganesha Tbk,Financial Services,Banks - Regional,70.78,233.39,87.0,77.0
+BHAT,PT Bhakti Multi Artha Tbk,Financial Services,Insurance - Life,620.0,1000.0,865.0,585.0
+BHIT,PT MNC Asia Holding Tbk,Communication Services,Entertainment,66.0,56.0,57.0,50.0
+BINA,PT Bank Ina Perdana Tbk,Financial Services,Banks - Regional,690.0,3810.0,3990.0,4090.0
+BIPI,PT Astrindo Nusantara Infrastruktur Tbk,Energy,Thermal Coal,50.0,50.0,158.0,105.0
+BIPP,PT Bhuwanatala Indah Permai Tbk,Real Estate,Real Estate - Diversified,50.0,55.0,51.0,50.0
+BIRD,PT Blue Bird Tbk,Industrials,Railroads,933.03,1021.89,1085.73,1423.9
+BISI,PT BISI International Tbk,Basic Materials,Agricultural Inputs,821.94,821.64,1372.96,1432.92
+BJBR,PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk,Financial Services,Banks - Regional,951.91,871.88,942.49,871.9
+BJTM,PT Bank Pembangunan Daerah Jawa Timur Tbk,Financial Services,Banks - Regional,415.09,487.01,492.32,467.88
+BKDP,PT Bukit Darmo Property Tbk,Real Estate,Real Estate Services,51.0,88.0,87.0,51.0
+BKSL,PT Sentul City Tbk,Real Estate,Real Estate - Development,55.99,55.99,48.85,50.0
+BKSW,PT Bank QNB Indonesia Tbk,Financial Services,Banks - Regional,106.0,192.0,102.0,81.0
+BLTA,PT Berlian Laju Tanker Tbk,Industrials,Marine Shipping,50.0,50.0,50.0,50.0
+BLTZ,PT Graha Layar Prima Tbk,Communication Services,Entertainment,2990.0,3370.0,3190.0,2110.0
+BMAS,PT Bank Kasikorn Indonesia Tbk,Financial Services,Banks - Regional,164.61,665.9,657.12,580.0
+BMHS,PT Bundamedik Tbk,Healthcare,Medical Care Facilities,,814.49,406.03,322.64
+BMRI,PT Bank Mandiri (Persero) Tbk,Financial Services,Banks - Regional,2128.6,2444.86,3618.8,4637.03
+BMSR,PT Bintang Mitra Semestaraya Tbk,Basic Materials,Chemicals,80.0,262.0,770.0,336.0
+BMTR,PT Global Mediacom Tbk,Communication Services,Entertainment,290.0,260.0,278.0,268.0
+BNBA,PT Bank Bumi Arta Tbk,Financial Services,Banks - Regional,307.85,2645.27,925.0,745.0
+BNBR,PT Bakrie & Brothers Tbk,Industrials,Conglomerates,3800.0,3800.0,3800.0,50.0
+BNGA,PT Bank CIMB Niaga Tbk,Financial Services,Banks - Regional,629.3,636.15,849.49,1330.27
+BNII,PT Bank Maybank Indonesia Tbk,Financial Services,Banks - Regional,291.32,281.94,197.86,217.18
+BNLI,PT Bank Permata Tbk,Financial Services,Banks - Regional,2454.36,1427.22,950.27,874.93
+BOGA,PT Apollo Global Interactive Tbk,Consumer Cyclical,Auto & Truck Dealerships,1380.0,1390.0,1295.0,1185.0
+BOLA,PT Bali Bintang Sejahtera Tbk,Communication Services,Entertainment,163.56,608.36,224.0,160.0
+BOLT,PT Garuda Metalindo Tbk,Industrials,Tools & Accessories,680.46,710.61,647.76,660.37
+BOSS,PT. Borneo Olah Sarana Sukses Tbk,Unknown,Unknown,150.0,71.0,89.0,50.0
+BPFI,PT Woori Finance Indonesia Tbk,Financial Services,Credit Services,691.35,865.69,599.67,375.87
+BPII,PT Batavia Prosperindo Internasional Tbk,Financial Services,Asset Management,465.0,306.9,510.0,489.1
+BRAM,PT Indo Kordsa Tbk,Consumer Cyclical,Textile Manufacturing,3840.65,9905.11,7003.09,5384.86
+BREN,PT Barito Renewables Energy Tbk,Utilities,Utilities - Renewable,,,,7459.96
+BRIS,PT Bank Syariah Indonesia Tbk,Financial Services,Banks - Regional,2082.64,1647.6,1239.91,1681.36
+BRMS,PT Bumi Resources Minerals Tbk,Basic Materials,Other Industrial Metals & Mining,72.39,116.0,159.0,170.0
+BRNA,PT Berlina Tbk,Consumer Cyclical,Packaging & Containers,1200.0,1190.0,1070.0,980.0
+BRPT,PT Barito Pacific Tbk,Basic Materials,Chemicals,1081.63,843.33,750.71,1325.21
+BSBK,PT Wulandari Bangun Laksana Tbk,Real Estate,Real Estate - Development,,,143.33,49.06
+BSDE,PT Bumi Serpong Damai Tbk,Real Estate,Real Estate - Development,1225.0,1010.0,920.0,1080.0
+BSIM,PT Bank Sinarmas Tbk,Financial Services,Banks - Regional,505.0,875.0,845.0,890.0
+BSSR,PT Baramulti Suksessarana Tbk,Energy,Thermal Coal,469.18,1366.36,2189.84,2341.19
+BSWD,PT Bank of India Indonesia Tbk,Financial Services,Banks - Regional,1187.5,1187.5,1187.5,1245.0
+BTEK,PT Bumi Teknokultura Unggul Tbk,Consumer Defensive,Farm Products,50.0,50.0,50.0,50.0
+BTEL,,Unknown,Unknown,,,,
+BTPN,PT Bank SMBC Indonesia Tbk,Financial Services,Banks - Regional,2887.51,2432.57,2460.42,2507.48
+BTPS,PT Bank BTPN Syariah Tbk,Financial Services,Banks - Regional,2981.78,2875.09,2283.91,1444.16
+BUAH,PT Segar Kumala Indonesia Tbk,Consumer Defensive,Food Distribution,,,400.25,962.45
+BUDI,PT Budi Starch & Sweetener Tbk,Consumer Defensive,Packaged Foods,80.83,150.45,196.98,257.74
+BUKA,PT Bukalapak.com Tbk.,Consumer Cyclical,Internet Retail,,430.0,262.0,216.0
+BUKK,PT Bukaka Teknik Utama Tbk.,Industrials,Engineering & Construction,1105.0,1215.0,1200.0,1100.0
+BULL,PT Buana Lintas Lautan Tbk,Industrials,Marine Shipping,350.0,238.0,178.0,154.0
+BUMI,PT Bumi Resources Tbk,Energy,Thermal Coal,72.0,67.0,161.0,85.0
+BUVA,PT Bukit Uluwatu Villa Tbk,Consumer Cyclical,Lodging,55.0,60.0,60.0,61.0
+BVIC,PT Bank Victoria International Tbk,Financial Services,Banks - Regional,114.0,204.0,107.0,99.0
+BWPT,PT Eagle High Plantations Tbk,Consumer Defensive,Packaged Foods,142.15,73.05,64.17,53.31
+BYAN,PT Bayan Resources Tbk.,Energy,Thermal Coal,1164.47,2219.54,19410.72,18940.62
+CAMP,"PT Campina Ice Cream Industry, Tbk.",Consumer Defensive,Packaged Foods,239.09,234.7,276.25,382.86
+CARE,PT Metro Healthcare Indonesia Tbk,Healthcare,Medical Care Facilities,322.0,515.0,476.0,160.0
+CARS,PT Industri dan Perdagangan Bintraco Dharma Tbk,Consumer Cyclical,Auto & Truck Dealerships,50.0,50.0,84.0,100.0
+CASA,PT Capital Financial Indonesia Tbk,Financial Services,Insurance - Life,376.0,530.0,720.0,620.0
+CASS,PT Cahaya Aero Services Tbk,Industrials,Airports & Air Services,270.0,468.0,416.0,900.0
+CBUT,PT Citra Borneo Utama Tbk,Consumer Defensive,Packaged Foods,,,2163.3,1751.48
+CEKA,PT Wilmar Cahaya Indonesia Tbk.,Consumer Defensive,Packaged Foods,1312.74,1456.94,1596.56,1565.19
+CENT,PT Centratama Telekomunikasi Indonesia Tbk,Communication Services,Telecom Services,142.0,232.0,112.0,55.0
+CFIN,PT. Clipan Finance Indonesia Tbk,Financial Services,Credit Services,148.43,158.58,190.3,371.77
+CGAS,PT Citra Nusantara Gemilang Tbk,Energy,Oil & Gas Refining & Marketing,,,,
+CHIP,PT Pelita Teknologi Global Tbk,Communication Services,Telecom Services,,,,2259.5
+CITA,PT Cita Mineral Investindo Tbk,Basic Materials,Other Industrial Metals & Mining,2253.43,2510.82,3074.02,1682.27
+CITY,PT Natura City Developments Tbk,Real Estate,Real Estate - Development,87.0,175.0,142.0,63.0
+CLAY,PT Citra Putra Realty Tbk,Consumer Cyclical,Lodging,1335.0,820.0,720.0,130.0
+CLEO,PT Sariguna Primatirta Tbk,Consumer Defensive,Beverages - Non-Alcoholic,242.51,230.51,272.78,350.01
+CLPI,PT Colorpak Indonesia Tbk,Basic Materials,Specialty Chemicals,448.59,656.54,638.98,715.8
+CMNP,PT Citra Marga Nusaphala Persada Tbk,Industrials,Infrastructure Operations,1540.0,2000.0,2190.0,1665.0
+CMNT,PT Cemindo Gemilang Tbk,Basic Materials,Building Materials,,1105.0,905.0,1070.0
+CMPP,PT AirAsia Indonesia Tbk,Industrials,Airlines,184.0,184.0,192.0,125.0
+CMRY,PT Cisarua Mountain Dairy Tbk,Consumer Defensive,Packaged Foods,,2942.47,3739.44,3581.85
+CNKO,PT Exploitasi Energi Indonesia Tbk,Energy,Thermal Coal,50.0,50.0,50.0,50.0
+CNMA,PT Nusantara Sejahtera Raya Tbk,Communication Services,Entertainment,,,,203.9
+CPIN,PT Charoen Pokphand Indonesia Tbk,Consumer Defensive,Farm Products,5727.86,5317.64,5152.57,4669.06
+CPRO,PT Central Proteina Prima Tbk,Consumer Defensive,Farm Products,50.0,95.0,53.0,51.0
+CSAP,PT Catur Sentosa Adiprana Tbk,Industrials,Industrial Distribution,350.27,448.02,756.53,572.6
+CSMI,PT Cipta Selera Murni Tbk,Consumer Cyclical,Restaurants,540.0,3640.0,3150.0,2880.0
+CTBN,PT Citra Tubindo Tbk,Energy,Oil & Gas Equipment & Services,2839.74,2116.58,1406.64,1265.54
+CTRA,PT Ciputra Development Tbk,Real Estate,Real Estate - Development,847.95,843.37,829.84,1047.65
+CTTH,PT Citatah Tbk,Basic Materials,Building Materials,55.0,50.0,50.0,12.0
+CUAN,PT Petrindo Jaya Kreasi Tbk,Energy,Thermal Coal,,,,1342.5
+CYBR,PT ITSEC Asia Tbk,Technology,Software - Infrastructure,,,,110.0
+DART,PT Duta Anggada Realty Tbk.,Real Estate,Real Estate Services,680.0,312.0,172.0,128.0
+DCII,PT DCI Indonesia Tbk,Real Estate,Real Estate Services,,43975.0,36825.0,43000.0
+DEAL,PT Dewata Freightinternational Tbk,Unknown,Unknown,142.0,50.0,50.0,9.0
+DEPO,PT Caturkarda Depo Bangunan Tbk,Consumer Cyclical,Home Improvement Retail,,460.98,460.44,366.39
+DEWA,PT Darma Henwa Tbk,Energy,Thermal Coal,49.76,49.76,52.74,59.71
+DFAM,PT Dafam Property Indonesia Tbk,Real Estate,Real Estate Services,206.0,384.0,92.0,53.0
+DGIK,PT Nusa Konstruksi Enjiniring Tbk,Industrials,Engineering & Construction,50.0,197.0,132.0,96.0
+DILD,PT Intiland Development Tbk,Real Estate,Real Estate - Development,220.0,156.0,171.0,198.0
+DIVA,PT Distribusi Voucher Nusantara Tbk,Technology,Software - Application,1205.0,2150.0,945.0,238.0
+DKFT,PT Central Omega Resources Tbk,Basic Materials,Other Industrial Metals & Mining,154.39,105.82,89.34,97.14
+DLTA,PT Delta Djakarta Tbk,Consumer Defensive,Beverages - Brewers,2694.67,2444.82,2698.23,2705.62
+DMAS,PT Puradelta Lestari Tbk,Real Estate,Real Estate - Development,114.61,96.91,89.33,104.52
+DMMX,PT Digital Mediatama Maxima Tbk,Communication Services,Advertising Agencies,228.36,2632.0,957.97,303.84
+DMND,PT Diamond Food Indonesia Tbk,Consumer Defensive,Packaged Foods,898.61,854.66,796.05,796.05
+DNAR,PT Bank Oke Indonesia Tbk,Financial Services,Banks - Regional,173.0,292.0,170.0,121.0
+DNET,PT Indoritel Makmur Internasional Tbk.,Communication Services,Telecom Services,3498.21,3288.31,4137.88,4697.59
+DOID,PT Buma Internasional Grup Tbk,Energy,Thermal Coal,331.46,248.59,286.26,345.43
+DOOH,PT Era Media Sejahtera Tbk,Communication Services,Advertising Agencies,,,,83.0
+DPUM,PT Dua Putra Utama Makmur Tbk,Consumer Defensive,Packaged Foods,52.0,50.0,50.0,37.0
+DRMA,PT Dharma Polimetal Tbk,Consumer Cyclical,Auto Parts,,416.68,490.29,1220.54
+DSNG,PT Dharma Satya Nusantara Tbk,Consumer Defensive,Farm Products,491.56,411.64,510.85,499.54
+DSSA,PT Dian Swastatika Sentosa Tbk,Energy,Thermal Coal,64.0,196.0,159.2,320.0
+DUTI,PT Duta Pertiwi Tbk,Real Estate,Real Estate - Development,2894.7,2582.38,3413.65,3809.44
+DVLA,PT Darya-Varia Laboratoria Tbk,Healthcare,Drug Manufacturers - Specialty & Generic,1747.52,2077.32,1872.91,1403.59
+DWGL,PT Dwi Guna Laksana Tbk,Energy,Thermal Coal,164.0,189.0,172.0,116.0
+DYAN,PT Dyandra Media International Tbk,Communication Services,Entertainment,55.0,75.0,98.0,85.0
+ECII,PT Electronic City Indonesia Tbk,Consumer Cyclical,Specialty Retail,646.93,958.05,493.84,288.0
+EDGE,PT Indointernet Tbk.,Technology,Information Technology Services,,4680.0,4000.0,5050.0
+ELPI,PT Pelayaran Nasional Ekalya Purnamasari Tbk,Industrials,Marine Shipping,,,199.08,269.78
+ELSA,PT Elnusa Tbk,Energy,Oil & Gas Equipment & Services,244.53,199.23,230.8,310.39
+ELTY,PT Bakrieland Development Tbk,Real Estate,Real Estate Services,50.0,50.0,50.0,50.0
+EMDE,PT Megapolitan Developments Tbk,Real Estate,Real Estate Services,192.0,166.0,122.0,117.0
+EMTK,PT Elang Mahkota Teknologi Tbk,Communication Services,Broadcasting,1279.09,2083.09,943.73,544.34
+ENAK,PT Champ Resto Indonesia Tbk,Consumer Cyclical,Restaurants,,,1808.09,1295.0
+ENRG,PT Energi Mega Persada Tbk,Energy,Oil & Gas E&P,129.0,102.0,294.0,220.0
+ENVY,,Unknown,Unknown,,,,
+EPMT,PT Enseval Putera Megatrading Tbk.,Healthcare,Medical Distribution,1463.8,2033.88,2222.95,2245.0
+ERAA,PT Erajaya Swasembada Tbk,Consumer Cyclical,Specialty Retail,338.71,472.66,323.26,365.4
+ERAL,PT Sinar Eka Selaras Tbk,Consumer Cyclical,Specialty Retail,,,,287.66
+ESSA,PT ESSA Industries Indonesia Tbk.,Basic Materials,Chemicals,178.18,449.69,780.76,474.36
+ETWA,PT Eterindo Wahanatama Tbk,Unknown,Unknown,,,,
+EXCL,PT XLSMART Telecom Sejahtera Tbk,Communication Services,Telecom Services,2301.94,2714.72,1864.45,1781.04
+FAPA,PT FAP Agri Tbk,Consumer Defensive,Farm Products,,3179.53,4259.19,5249.69
+FAST,PT Fast Food Indonesia Tbk,Consumer Cyclical,Restaurants,1090.0,975.0,820.0,740.0
+FASW,PT Fajar Surya Wisesa Tbk,Consumer Cyclical,Packaging & Containers,7265.68,7454.1,5828.14,5800.0
+FILM,PT.MD Entertainment Tbk,Communication Services,Entertainment,183.33,939.56,1899.0,3937.2
+FIRE,PT Alfa Energi Investama Tbk,Energy,Thermal Coal,1320.0,458.0,163.0,113.0
+FISH,PT FKS Multi Agro Tbk,Consumer Defensive,Food Distribution,2506.44,7345.43,6504.46,5361.35
+FMII,PT Fortune Mate Indonesia Tbk,Real Estate,Real Estate - Development,284.85,161.56,108.84,320.0
+FPNI,PT Lotte Chemical Titan Tbk,Basic Materials,Specialty Chemicals,362.0,464.0,218.0,197.0
+FREN,,Unknown,Unknown,,,,
+FUJI,PT Fuji Finance Indonesia Tbk,Financial Services,Credit Services,115.0,620.0,498.0,268.0
+GAMA,,Unknown,Unknown,,,,
+GDST,PT Gunawan Dianjaya Steel Tbk,Basic Materials,Steel,96.28,87.53,132.16,115.53
+GEMA,PT Gema Grahasarana Tbk,Consumer Cyclical,"Furnishings, Fixtures & Appliances",321.36,328.79,278.64,260.06
+GEMS,PT Golden Energy Mines Tbk,Energy,Thermal Coal,1129.52,4103.16,4358.76,4222.13
+GGRM,PT Gudang Garam Tbk,Consumer Defensive,Tobacco,30644.61,24452.87,15483.93,18273.43
+GGRP,PT Gunung Raja Paksi Tbk,Basic Materials,Steel,174.87,311.42,205.99,188.22
+GIAA,PT. Garuda Indonesia (Persero) Tbk,Industrials,Airlines,368.6,203.55,203.55,69.0
+GJTL,PT. Gajah Tunggal Tbk,Consumer Cyclical,Auto Parts,549.96,565.8,476.47,880.61
+GMFI,PT Garuda Maintenance Facility Aero Asia Tbk,Industrials,Aerospace & Defense,153.0,74.0,66.0,80.0
+GMTD,PT Gowa Makassar Tourism Development Tbk,Real Estate,Real Estate - Development,1786.52,1664.6,1443.15,2376.7
+GOLL,,Unknown,Unknown,,,,
+GOOD,PT Garudafood Putra Putri Jaya Tbk,Consumer Defensive,Packaged Foods,227.96,475.88,481.18,399.25
+GOTO,PT GoTo Gojek Tokopedia Tbk,Technology,Software - Infrastructure,,,91.0,86.0
+GPRA,PT Perdana Gapuraprima Tbk,Real Estate,Real Estate - Development,65.81,76.34,87.98,84.28
+GSMF,PT Equity Development Investment Tbk,Financial Services,Insurance - Diversified,65.31,161.0,78.0,61.0
+GTBO,PT Garda Tujuh Buana Tbk,Energy,Thermal Coal,72.51,72.51,180.8,418.0
+GTSI,PT GTS Internasional Tbk,Industrials,Marine Shipping,,64.21,50.8,47.92
+GWSA,PT Greenwood Sejahtera Tbk,Real Estate,Real Estate - Development,135.0,183.0,151.0,154.0
+GZCO,PT Gozco Plantations Tbk,Consumer Defensive,Farm Products,50.0,69.0,81.0,120.0
+HATM,PT Habco Trans Maritima Tbk,Industrials,Marine Shipping,,,284.42,257.49
+HDFA,PT Radana Bhaskara Finance Tbk,Financial Services,Credit Services,126.0,206.0,157.0,100.0
+HDTX,,Unknown,Unknown,,,,
+HEAL,PT Medikaloka Hermina Tbk,Healthcare,Medical Care Facilities,676.92,1031.66,1501.01,1450.49
+HELI,PT Jaya Trishindo Tbk,Industrials,Airports & Air Services,216.0,326.0,280.0,404.0
+HERO,PT DFI Retail Nusantara Tbk,Consumer Cyclical,Department Stores,830.0,1840.0,1500.0,885.0
+HEXA,PT Hexindo Adiperkasa Tbk,Industrials,Industrial Distribution,1627.96,3010.14,3898.46,4493.47
+HILL,PT Hillcon Tbk,Basic Materials,Other Industrial Metals & Mining,,,,474.75
+HITS,PT Humpuss Intermoda Transportasi Tbk.,Industrials,Marine Shipping,486.0,384.0,366.0,376.0
+HMSP,PT Hanjaya Mandala Sampoerna Tbk,Consumer Defensive,Tobacco,980.0,664.9,616.68,695.28
+HOKI,PT Buyung Poetra Sembada Tbk,Consumer Defensive,Packaged Foods,240.56,174.24,99.94,170.01
+HOMI,PT Grand House Mulia Tbk,Real Estate,Real Estate - Development,660.0,812.5,338.0,220.0
+HOTL,,Unknown,Unknown,,,,
+HRME,PT Menteng Heritage Realty Tbk,Consumer Cyclical,Lodging,52.0,53.0,52.0,50.0
+HRTA,PT Hartadinata Abadi Tbk,Consumer Cyclical,Luxury Goods,197.91,177.64,177.64,316.64
+HRUM,PT Harum Energy Tbk,Basic Materials,Other Industrial Metals & Mining,562.18,1962.68,1620.0,1335.0
+HUMI,PT Humpuss Maritim Internasional Tbk,Industrials,Marine Shipping,,,,146.15
+IATA,PT Karya Pacific Energy Tbk,Energy,Thermal Coal,50.0,65.0,120.0,50.0
+IBOS,PT Indo Boga Sukses Tbk,Consumer Cyclical,Restaurants,,,86.0,364.0
+IBST,PT Inti Bangun Sejahtera Tbk,Communication Services,Telecom Services,6801.95,5465.02,5775.0,5600.0
+ICBP,PT Indofood CBP Sukses Makmur Tbk,Consumer Defensive,Packaged Foods,8250.57,7690.56,9058.55,9740.04
+IDPR,PT Indonesia Pondasi Raya Tbk,Industrials,Engineering & Construction,188.38,173.27,163.36,128.44
+IFII,PT Indonesia Fibreboard Industry Tbk,Basic Materials,Lumber & Wood Production,120.26,119.45,131.81,129.02
+IFSH,PT Ifishdeco Tbk,Basic Materials,Other Industrial Metals & Mining,352.88,1906.99,871.97,810.39
+IGAR,PT Champion Pacific Indonesia Tbk,Consumer Cyclical,Packaging & Containers,339.09,426.48,456.54,429.1
+IIKP,,Unknown,Unknown,,,,
+IKAI,PT Intikeramik Alamasri Industri Tbk,Industrials,Building Products & Equipment,50.0,50.0,50.0,50.0
+IKBI,PT Sumi Indo Kabel Tbk,Industrials,Electrical Equipment & Parts,192.16,197.09,172.45,378.19
+IMAS,PT Indomobil Sukses Internasional Tbk,Consumer Cyclical,Auto & Truck Dealerships,1467.69,851.59,850.55,1370.63
+IMJS,PT Indomobil Multi Jasa Tbk,Industrials,Conglomerates,405.37,415.57,312.87,277.58
+IMPC,PT Impack Pratama Industri Tbk,Industrials,Building Products & Equipment,106.14,204.94,284.71,380.65
+INAF,PT Indofarma Tbk,Healthcare,Drug Manufacturers - Specialty & Generic,4030.0,2230.0,1150.0,580.0
+INAI,PT Indal Aluminium Industry Tbk,Basic Materials,Aluminum,334.0,292.0,264.0,204.0
+INCO,PT Vale Indonesia Tbk,Basic Materials,Other Industrial Metals & Mining,4828.66,4471.9,6784.29,4173.37
+INDF,PT Indofood Sukses Makmur Tbk,Consumer Defensive,Packaged Foods,5378.64,5189.2,5749.0,5710.92
+INDR,PT. Indo-Rama Synthetics Tbk,Consumer Cyclical,Textile Manufacturing,2620.87,3591.88,5353.28,3050.0
+INDS,PT Indospring Tbk,Consumer Cyclical,Auto Parts,162.04,202.23,170.38,227.65
+INDY,PT. Indika Energy Tbk,Energy,Thermal Coal,1405.57,1255.26,2311.19,1335.07
+INET,PT Sinergi Inti Andalan Prima Tbk,Communication Services,Telecom Services,,,,82.96
+INKP,PT Indah Kiat Pulp & Paper Tbk,Basic Materials,Paper & Paper Products,9969.95,7530.5,8450.8,8119.37
+INPC,PT Bank Artha Graha Internasional Tbk,Financial Services,Banks - Regional,69.0,127.0,71.0,73.0
+INPP,PT Indonesian Paradise Property Tbk,Real Estate,Real Estate Services,715.51,637.1,437.15,705.71
+INPS,PT Indah Prakasa Sentosa Tbk,Industrials,Trucking,3900.0,1790.0,1180.0,168.0
+INTA,PT Intraco Penta Tbk,Industrials,Industrial Distribution,190.0,68.0,74.0,50.0
+INTP,PT Indocement Tunggal Prakarsa Tbk,Basic Materials,Building Materials,10991.05,9638.06,8305.13,8013.26
+IPCC,PT Indonesia Kendaraan Terminal Tbk,Industrials,Integrated Freight & Logistics,340.95,331.3,390.74,538.46
+IPCM,PT Jasa Armada Indonesia Tbk,Industrials,Marine Shipping,233.26,202.13,202.41,219.93
+IPOL,PT Indopoly Swakarsa Industry Tbk,Consumer Cyclical,Packaging & Containers,150.09,164.19,172.0,157.0
+IPTV,PT MNC Vision Networks Tbk,Communication Services,Entertainment,328.0,168.0,65.0,50.0
+IRRA,PT Itama Ranoraya Tbk,Healthcare,Medical Distribution,1565.4,1946.07,1080.0,800.0
+IRSX,PT Folago Global Nusantara Tbk,Technology,Software - Application,,,,49.98
+ISAT,PT Indosat Tbk,Communication Services,Telecom Services,943.68,1290.52,1331.17,2088.39
+ISSP,PT Steel Pipe Industry of Indonesia Tbk,Basic Materials,Steel,127.49,323.38,206.62,250.62
+ITMA,PT Sumber Energi Andalan Tbk,Basic Materials,Other Industrial Metals & Mining,525.0,750.0,815.0,690.0
+ITMG,PT Indo Tambangraya Megah Tbk,Energy,Thermal Coal,6033.19,9532.28,22706.61,19402.3
+JARR,PT Jhonlin Agro Raya Tbk,Consumer Defensive,Farm Products,,,312.34,243.59
+JAWA,PT Jaya Agra Wattie Tbk,Consumer Defensive,Farm Products,98.0,270.0,105.0,180.0
+JAYA,PT Armada Berjaya Trans Tbk,Industrials,Trucking,89.03,162.44,92.72,103.58
+JECC,PT Jembo Cable Company Tbk,Industrials,Electrical Equipment & Parts,948.89,1025.14,837.06,421.56
+JGLE,PT Graha Andrasentra Propertindo Tbk,Consumer Cyclical,Leisure,50.0,50.0,50.0,50.0
+JIHD,PT Jakarta International Hotels & Development Tbk,Consumer Cyclical,Lodging,446.0,436.0,352.0,388.0
+JKON,PT Jaya Konstruksi Manggala Pratama Tbk,Industrials,Conglomerates,343.5,106.48,102.19,78.61
+JPFA,PT Japfa Comfeed Indonesia Tbk,Consumer Defensive,Farm Products,1087.61,1300.9,1017.86,971.85
+JRPT,"PT Jaya Real Property, Tbk.",Real Estate,Real Estate - Development,476.36,431.65,432.55,630.8
+JSKY,,Unknown,Unknown,,,,
+JSMR,PT Jasa Marga (Persero) Tbk,Industrials,Infrastructure Operations,4104.76,3448.71,2641.94,4412.97
+JSPT,PT Jakarta Setiabudi Internasional Tbk,Real Estate,Real Estate Services,825.94,733.63,816.22,1258.34
+JTPE,PT Jasuindo Tiga Perkasa Tbk,Industrials,Specialty Business Services,190.37,201.36,206.38,258.9
+KAEF,PT Kimia Farma Tbk,Healthcare,Medical Distribution,4201.42,2403.37,1085.0,1445.0
+KARW,PT Meratus Jasa Prima Tbk,Industrials,Marine Shipping,75.0,137.0,87.0,50.0
+KBLI,PT KMI Wire and Cable Tbk,Industrials,Electrical Equipment & Parts,329.86,240.52,273.16,297.81
+KBLV,PT First Media Tbk,Communication Services,Entertainment,410.0,570.0,99.0,72.0
+KEEN,PT Kencana Energi Lestari Tbk,Utilities,Utilities - Independent Power Producers,376.32,423.38,624.68,751.37
+KEJU,PT Mulia Boga Raya Tbk,Consumer Defensive,Packaged Foods,310.95,271.94,328.17,280.77
+KIAS,PT Keramika Indonesia Assosiasi Tbk,Industrials,Building Products & Equipment,50.0,50.0,50.0,15.0
+KIJA,PT Kawasan Industri Jababeka Tbk,Real Estate,Real Estate - Development,208.39,161.65,142.18,130.49
+KINO,PT Kino Indonesia Tbk,Consumer Defensive,Beverages - Non-Alcoholic,2462.28,1858.84,1410.44,1162.35
+KIOS,PT Kioson Komersial Indonesia Tbk,Technology,Software - Application,113.62,403.03,175.0,51.0
+KKGI,PT Resource Alam Indonesia Tbk,Energy,Thermal Coal,155.56,167.27,264.0,265.57
+KLBF,PT Kalbe Farma Tbk.,Healthcare,Drug Manufacturers - General,1299.46,1445.05,1911.1,1498.93
+KMTR,PT Kirana Megatara Tbk,Consumer Cyclical,Auto Parts,317.81,328.25,258.0,278.0
+KOIN,PT Kokoh Inti Arebama Tbk,Industrials,Building Products & Equipment,101.0,160.0,127.0,81.0
+KONI,PT Perdana Bangun Pusaka Tbk,Consumer Cyclical,Specialty Retail,476.0,990.0,3040.0,1015.0
+KOTA,PT DMS Propertindo Tbk,Real Estate,Real Estate Services,338.0,79.0,50.0,50.0
+KPIG,PT MNC Tourism Indonesia Tbk,Real Estate,Real Estate Services,106.0,94.0,71.0,62.0
+KRAS,PT Krakatau Steel (Persero) Tbk,Basic Materials,Steel,428.0,412.0,326.0,142.0
+KREN,PT Quantum Clovera Investama Tbk,Financial Services,Asset Management,84.0,96.0,50.0,50.0
+LAND,PT Trimitra Propertindo Tbk,Real Estate,Real Estate Services,176.0,88.0,50.0,15.0
+LAPD,PT Leyand International Tbk,Unknown,Unknown,50.0,50.0,50.0,6.0
+LCGP,,Unknown,Unknown,,,,
+LIFE,PT MSIG Life Insurance Indonesia Tbk,Financial Services,Insurance - Life,4255.1,5709.2,4812.85,5769.41
+LINK,PT Link Net Tbk,Communication Services,Telecom Services,2176.11,3697.51,2559.91,1325.0
+LPCK,PT Lippo Cikarang Tbk,Real Estate,Real Estate - Development,1336.28,1205.0,1000.0,800.0
+LPGI,PT Lippo General Insurance Tbk,Financial Services,Insurance - Diversified,131.16,203.72,559.59,390.84
+LPKR,PT Lippo Karawaci Tbk,Healthcare,Medical Care Facilities,214.0,141.0,79.0,97.0
+LPLI,PT Star Pacific Tbk,Real Estate,Real Estate Services,85.0,274.0,274.0,234.0
+LPPF,PT MDS Retailing Tbk,Consumer Cyclical,Department Stores,701.3,2338.9,2793.45,1312.65
+LPPS,PT Lenox Pasifik Investama Tbk,Financial Services,Capital Markets,88.0,112.0,81.0,65.0
+LSIP,PT Perusahaan Perkebunan London Sumatra Indonesia Tbk,Consumer Defensive,Farm Products,1043.1,915.53,817.27,754.34
+LTLS,PT Lautan Luas Tbk,Basic Materials,Specialty Chemicals,370.99,557.11,1176.05,1154.09
+MAGP,,Unknown,Unknown,,,,
+MAHA,PT Mandiri Herindo Adiperkasa Tbk,Industrials,Trucking,,,,155.35
+MAIN,PT Malindo Feedmill Tbk,Consumer Defensive,Packaged Foods,1294.55,1294.55,415.95,437.18
+MAPA,PT Map Aktif Adiperkasa Tbk,Consumer Cyclical,Specialty Retail,237.0,247.73,375.5,804.57
+MAPB,PT Map Boga Adiperkasa Tbk,Consumer Cyclical,Restaurants,1355.0,1610.0,1895.0,1940.0
+MAPI,PT. Mitra Adiperkasa Tbk,Consumer Cyclical,Department Stores,770.28,692.27,1408.93,1753.69
+MARK,PT Mark Dynamics Indonesia Tbk,Healthcare,Medical Instruments & Supplies,560.53,729.64,472.55,464.18
+MASA,,Unknown,Unknown,,,,
+MASB,PT Bank Multiarta Sentosa Tbk,Financial Services,Banks - Regional,,3526.26,3506.4,3585.86
+MAYA,PT Bank Mayapada Internasional Tbk,Financial Services,Banks - Regional,2578.56,371.5,292.7,255.55
+MBAP,PT Mitrabara Adiperdana Tbk,Energy,Thermal Coal,1666.72,2521.66,5777.92,4072.39
+MBMA,PT Merdeka Battery Materials Tbk.,Basic Materials,Other Industrial Metals & Mining,,,,560.0
+MBSS,PT Mitrabahtera Segara Sejati Tbk,Industrials,Marine Shipping,472.0,1090.0,1195.0,1210.0
+MCAS,PT M Cash Integrasi Tbk,Industrials,Business Equipment & Supplies,3990.0,9525.0,8025.0,4350.0
+MCOL,PT Prima Andalan Mandiri Tbk,Energy,Thermal Coal,,2312.85,4893.01,4596.39
+MCOR,PT Bank China Construction Bank Indonesia Tbk,Financial Services,Banks - Regional,139.0,116.0,80.0,78.0
+MDIA,PT Intermedia Capital Tbk,Communication Services,Broadcasting,56.0,50.0,52.0,50.0
+MDKA,PT Merdeka Copper Gold Tbk,Basic Materials,Other Industrial Metals & Mining,2359.24,3776.73,4100.07,2686.94
+MDLN,PT Modernland Realty Tbk,Real Estate,Real Estate - Development,51.0,74.0,82.0,62.0
+MDRN,PT Modern Internasional Tbk,Industrials,Business Equipment & Supplies,50.0,50.0,50.0,6.0
+MEDC,PT Medco Energi Internasional Tbk,Energy,Oil & Gas E&P,483.28,381.71,882.52,1044.51
+MEGA,PT Bank Mega Tbk,Financial Services,Banks - Regional,1629.83,1972.27,2288.25,2307.22
+MERK,PT Merck Tbk,Healthcare,Drug Manufacturers - Specialty & Generic,2274.66,2652.52,3619.36,3401.66
+META,,Unknown,Unknown,,,,
+MFIN,,Unknown,Unknown,,,,
+MGRO,PT Mahkota Group Tbk,Consumer Defensive,Packaged Foods,808.52,843.24,845.0,705.0
+MICE,PT Multi Indocitra Tbk,Consumer Defensive,Household & Personal Products,264.43,360.88,498.43,554.71
+MIDI,PT Midi Utama Indonesia Tbk,Consumer Defensive,Grocery Stores,162.04,187.94,255.94,394.93
+MIKA,PT Mitra Keluarga Karyasehat Tbk,Healthcare,Medical Care Facilities,2478.23,2081.07,2975.7,2695.34
+MINA,PT Sanurhasta Mitra Tbk,Consumer Cyclical,Lodging,50.0,50.0,80.0,50.0
+MIRA,PT Mitra International Resources Tbk,Energy,Oil & Gas Equipment & Services,50.0,50.0,50.0,7.0
+MITI,PT Mitra Investindo Tbk,Industrials,Marine Shipping,122.7,223.95,164.98,186.23
+MKNT,PT Mitra Komunikasi Nusantara Tbk,Technology,Communication Equipment,50.0,50.0,50.0,2.0
+MKPI,PT Metropolitan Kentjana Tbk,Real Estate,Real Estate Services,24811.61,22180.43,34886.2,24741.71
+MKTR,PT Menthobi Karyatama Raya Tbk,Consumer Defensive,Farm Products,,,123.72,144.58
+MLBI,PT Multi Bintang Indonesia Tbk,Consumer Defensive,Beverages - Brewers,6561.23,5554.5,6702.05,6054.87
+MLIA,PT Mulia Industrindo Tbk,Industrials,Building Products & Equipment,98.22,391.1,464.55,409.66
+MLPL,PT Multipolar Tbk,Consumer Cyclical,Department Stores,71.0,370.0,112.0,73.0
+MLPT,PT Multipolar Technology Tbk,Technology,Information Technology Services,19.34,101.53,64.44,54.58
+MMLP,PT Mega Manunggal Property Tbk,Real Estate,Real Estate Services,291.22,552.14,463.21,291.22
+MNCN,PT. Media Nusantara Citra Tbk,Communication Services,Advertising Agencies,1121.03,893.33,734.52,386.0
+MOLI,PT Madusari Murni Indah Tbk,Basic Materials,Chemicals,696.72,409.29,198.91,359.56
+MORA,PT Mora Telematika Indonesia Tbk,Communication Services,Telecom Services,,,560.0,452.0
+MPMX,PT Mitra Pinasthika Mustika Tbk,Consumer Cyclical,Auto & Truck Dealerships,207.93,559.45,656.08,700.68
+MPPA,PT Matahari Putra Prima Tbk,Consumer Cyclical,Department Stores,105.0,434.0,128.0,65.0
+MPRO,PT Maha Properti Indonesia Tbk,Real Estate,Real Estate - Development,1740.0,850.0,1510.0,2100.0
+MRAT,PT Mustika Ratu Tbk,Consumer Defensive,Household & Personal Products,169.0,276.0,765.0,370.0
+MREI,PT Maskapai Reasuransi Indonesia Tbk,Financial Services,Insurance - Reinsurance,4466.55,4063.12,4139.97,2009.36
+MSIN,PT MNC Digital Entertainment Tbk,Communication Services,Entertainment,35.67,496.0,964.0,600.0
+MSJA,PT Multi Spunindo Jaya Tbk,Consumer Cyclical,Textile Manufacturing,,,,
+MSKY,PT MNC Sky Vision Tbk,Communication Services,Entertainment,795.0,600.0,224.0,99.0
+MSTI,PT Mastersystem Infotama Tbk,Technology,Information Technology Services,,,,1096.15
+MTDL,PT Metrodata Electronics Tbk,Technology,Electronics & Computer Distribution,259.81,641.77,495.2,469.27
+MTEL,PT Dayamitra Telekomunikasi Tbk.,Communication Services,Telecom Services,,699.04,684.12,622.16
+MTFN,PT Capitalinc Investment Tbk,Energy,Oil & Gas E&P,50.0,50.0,50.0,50.0
+MTLA,PT Metropolitan Land Tbk,Real Estate,Real Estate Services,372.14,404.86,348.34,374.91
+MTMH,PT Murni Sadar Tbk,Healthcare,Medical Care Facilities,,,1396.65,1346.77
+MTPS,PT Meta Epsi Tbk.,Industrials,Engineering & Construction,165.0,109.0,96.0,12.0
+MYOH,PT Samindo Resources Tbk,Energy,Thermal Coal,1113.61,1499.09,1388.53,1551.04
+MYOR,PT Mayora Indah Tbk,Consumer Defensive,Packaged Foods,2370.25,1826.85,2262.91,2283.57
+MYTX,PT Asia Pacific Investama Tbk,Consumer Cyclical,Textile Manufacturing,50.0,83.0,54.0,60.0
+NASA,PT Andalan Perkasa Abadi Tbk,Real Estate,Real Estate - Development,104.0,61.0,50.0,17.0
+NATO,PT Olympus Strategic Indonesia Tbk,Consumer Cyclical,Lodging,585.0,740.0,505.0,199.0
+NCKL,PT Trimegah Bangun Persada Tbk,Basic Materials,Other Industrial Metals & Mining,,,,880.2
+NETV,PT MDTV Media Technologies Tbk,Communication Services,Broadcasting,,,432.0,118.0
+NFCX,PT NFC Indonesia Tbk,Communication Services,Internet Content & Information,2310.0,8950.0,8000.0,4050.0
+NICE,PT Adhi Kartiko Pratama Tbk,Basic Materials,Other Industrial Metals & Mining,,,,
+NICL,PT PAM Mineral Tbk,Basic Materials,Other Industrial Metals & Mining,,58.55,131.53,181.57
+NIKL,PT Pelat Timah Nusantara Tbk,Industrials,Metal Fabrication,1435.76,968.77,645.85,302.06
+NIRO,PT City Retail Developments Tbk,Real Estate,Real Estate Services,162.0,150.0,143.0,140.0
+NISP,PT Bank OCBC NISP Tbk,Financial Services,Banks - Regional,623.86,509.74,586.19,997.32
+NOBU,PT Bank Nationalnobu Tbk,Financial Services,Banks - Regional,766.7,659.83,511.13,740.0
+NRCA,PT Nusa Raya Cipta Tbk,Industrials,Engineering & Construction,238.03,191.54,209.54,260.97
+NSSS,PT Nusantara Sawit Sejahtera Tbk,Consumer Defensive,Farm Products,,,,174.5
+OMED,PT Jayamas Medica Industri Tbk,Healthcare,Medical Instruments & Supplies,,,197.26,202.45
+OMRE,PT Indonesia Prima Property Tbk,Real Estate,Real Estate Services,241.98,631.09,810.0,498.0
+PADI,PT Minna Padi Investama Sekuritas Tbk,Financial Services,Capital Markets,50.0,50.0,50.0,8.0
+PALM,PT Provident Investasi Bersama Tbk,Financial Services,Asset Management,321.97,814.29,628.45,618.55
+PANI,PT Pantai Indah Kapuk Dua Tbk,Real Estate,Real Estate - Development,8.23,122.37,948.57,4892.62
+PANS,PT Panin Sekuritas Tbk,Financial Services,Capital Markets,678.5,722.19,1197.75,1149.78
+PBID,PT Panca Budi Idaman Tbk,Consumer Cyclical,Packaging & Containers,224.76,265.12,277.4,248.83
+PBRX,PT Pan Brothers Tbk,Consumer Cyclical,Apparel Manufacturing,169.64,106.2,74.48,50.0
+PBSA,PT Paramita Bangun Sarana Tbk,Industrials,Engineering & Construction,73.56,93.93,82.7,118.37
+PCAR,PT Prima Cakrawala Abadi Tbk,Consumer Defensive,Packaged Foods,555.0,282.0,87.0,50.0
+PEGE,PT Panca Global Kapital Tbk,Financial Services,Capital Markets,136.0,1170.0,420.0,170.0
+PEHA,PT Phapros Tbk,Healthcare,Drug Manufacturers - Specialty & Generic,1586.35,1054.55,658.88,627.95
+PGAS,PT Perusahaan Gas Negara (Persero) Tbk,Utilities,Utilities - Regulated Gas,1053.32,875.12,1204.58,858.03
+PGEO,PT Pertamina Geothermal Energy Tbk,Utilities,Utilities - Renewable,,,,1029.06
+PGLI,PT Pembangunan Graha Lestari Indah Tbk,Consumer Cyclical,Lodging,226.42,424.3,312.49,149.0
+PGUN,PT Pradiksi Gunatama Tbk,Consumer Defensive,Farm Products,248.77,386.09,801.04,413.95
+PICO,PT Pelangi Indah Canindo Tbk,Consumer Cyclical,Packaging & Containers,143.0,95.0,248.0,120.0
+PIPA,PT Oxala Energy International Tbk,Industrials,Building Products & Equipment,,,,50.0
+PJAA,PT Pembangunan Jaya Ancol Tbk,Consumer Cyclical,Leisure,506.55,472.78,607.86,833.63
+PLIN,PT Plaza Indonesia Realty Tbk,Real Estate,Real Estate Services,1737.31,1800.51,1592.29,2234.41
+PMJS,PT Putra Mandiri Jembar Tbk,Consumer Cyclical,Auto & Truck Dealerships,91.54,124.66,137.35,133.53
+PNBN,PT Bank Pan Indonesia Tbk,Financial Services,Banks - Regional,968.08,699.93,1416.62,1113.06
+PNBS,PT Bank Panin Dubai Syariah Tbk,Financial Services,Banks - Regional,83.0,85.0,63.0,54.0
+PNIN,PT Paninvest Tbk,Financial Services,Insurance - Life,865.0,680.0,1245.0,985.0
+PNLF,PT Panin Financial Tbk,Financial Services,Banks - Regional,240.28,168.0,358.0,264.0
+POLA,PT Pool Advista Finance Tbk,Financial Services,Credit Services,246.0,190.0,87.0,50.0
+POLI,PT Pollux Hotels Group Tbk,Real Estate,Real Estate - Development,800.0,1475.0,805.0,805.0
+POLL,PT Pollux Properties Indonesia Tbk,Real Estate,Real Estate - Development,4490.0,1235.0,224.0,147.0
+POLU,PT Golden Flower Tbk,Consumer Cyclical,Apparel Manufacturing,750.0,428.0,286.0,825.0
+POOL,,Unknown,Unknown,,,,
+PORT,PT Nusantara Pelabuhan Handal Tbk,Industrials,Marine Shipping,412.0,650.0,820.0,710.0
+POSA,,Unknown,Unknown,,,,
+POWR,PT Cikarang Listrindo Tbk,Utilities,Utilities - Independent Power Producers,407.16,384.34,453.21,539.98
+PPRE,PT PP Presisi Tbk,Industrials,Engineering & Construction,259.03,173.18,124.0,79.0
+PPRO,PT Pembangunan Perumahan Properti Tbk,Real Estate,Real Estate - Development,94.0,58.0,50.0,50.0
+PRAY,PT Famon Awal Bros Sedaya Tbk,Healthcare,Medical Care Facilities,,,790.0,705.0
+PRDA,PT Prodia Widyahusada Tbk,Healthcare,Diagnostics & Research,2357.31,6960.09,4478.15,4500.42
+PRIM,PT Royal Prima Tbk,Healthcare,Medical Care Facilities,232.0,400.0,173.0,88.0
+PSAB,PT J Resources Asia Pasifik Tbk,Basic Materials,Gold,202.36,106.54,82.02,67.45
+PSGO,PT Palma Serasih Tbk,Consumer Defensive,Farm Products,104.47,189.63,128.18,116.76
+PSSI,PT IMC Pelita Logistik Tbk,Industrials,Marine Shipping,117.63,280.13,432.7,398.64
+PTBA,PT Bukit Asam (Persero) Tbk,Energy,Thermal Coal,1196.97,1190.52,1904.22,1787.79
+PTIS,PT Indo Straits Tbk,Industrials,Marine Shipping,160.0,376.0,480.0,334.0
+PTMP,PT Mitra Pack Tbk,Industrials,Specialty Industrial Machinery,,,,199.82
+PTPP,PT PP (Persero) Tbk,Industrials,Engineering & Construction,1865.0,990.0,715.0,428.0
+PTRO,PT Petrosea Tbk,Basic Materials,Other Industrial Metals & Mining,143.98,170.55,340.31,521.2
+PTSN,PT Sat Nusapersada Tbk,Technology,Electronic Components,207.65,209.44,171.85,223.97
+PTSP,PT Pioneerindo Gourmet International Tbk,Consumer Cyclical,Restaurants,3710.0,7000.0,3500.0,2590.0
+PWON,PT Pakuwon Jati Tbk,Real Estate,Real Estate - Diversified,445.33,405.16,401.8,405.41
+PYFA,PT Pyridam Farma Tbk,Healthcare,Drug Manufacturers - Specialty & Generic,975.0,1015.0,865.0,1145.0
+PZZA,PT Sarimelati Kencana Tbk,Consumer Cyclical,Restaurants,753.45,652.15,535.4,366.85
+RAAM,PT Tripar Multivision Plus Tbk,Communication Services,Entertainment,,,,570.58
+RAJA,PT Rukun Raharja Tbk,Utilities,Utilities - Regulated Gas,44.48,32.81,192.22,262.87
+RALS,PT Ramayana Lestari Sentosa Tbk,Consumer Cyclical,Department Stores,472.5,399.34,363.56,357.55
+RDTX,PT Roda Vivatex Tbk,Real Estate,Real Estate Services,3836.12,4991.89,7300.62,12847.32
+RICY,PT Ricky Putra Globalindo Tbk,Consumer Cyclical,Apparel Manufacturing,114.0,94.0,83.0,111.0
+RIGS,PT Rig Tenders Indonesia Tbk,Industrials,Marine Shipping,268.0,310.0,505.0,480.0
+RISE,PT Jaya Sukses Makmur Sentosa Tbk,Real Estate,Real Estate - Development,286.49,258.11,743.24,672.3
+RMKE,PT RMK Energy Tbk,Energy,Thermal Coal,,42.66,180.62,115.29
+RODA,PT Pikko Land Development Tbk,Real Estate,Real Estate - Development,51.0,88.0,57.0,50.0
+ROTI,PT Nippon Indosari Corpindo Tbk,Consumer Defensive,Packaged Foods,897.17,929.6,944.21,880.71
+RSGK,PT Kedoya Adyaraya Tbk,Healthcare,Medical Care Facilities,,1462.64,1099.37,1238.57
+RUIS,PT Radiant Utama Interinsco Tbk,Energy,Oil & Gas Equipment & Services,249.5,191.99,213.06,187.94
+SAFE,PT Steady Safe Tbk,Industrials,Railroads,188.0,220.0,222.0,350.0
+SAGE,PT Saptausaha Gemilangindah Tbk,Real Estate,Real Estate - Development,,,,50.0
+SAME,PT Sarana Meditama Metropolitan Tbk,Healthcare,Medical Care Facilities,190.04,370.0,300.0,314.0
+SAMF,"PT Saraswanti Anugerah Makmur, Tbk",Basic Materials,Agricultural Inputs,157.26,437.27,194.34,320.79
+SCCO,PT Supreme Cable Manufacturing & Commerce Tbk,Industrials,Electrical Equipment & Parts,9121.47,9094.04,7601.9,7236.24
+SCMA,PT Surya Citra Media Tbk,Communication Services,Broadcasting,320.02,227.79,145.71,125.21
+SDMU,PT Sidomulyo Selaras Tbk,Industrials,Trucking,57.0,68.0,70.0,50.0
+SDPC,PT Millennium Pharmacon International Tbk,Healthcare,Medical Distribution,96.06,126.11,310.2,149.83
+SDRA,PT Bank Woori Saudara Indonesia 1906 Tbk,Financial Services,Banks - Regional,630.63,493.35,512.99,527.6
+SFAN,PT Surya Fajar Capital Tbk,Financial Services,Asset Management,1330.0,1470.0,1880.0,1945.0
+SGER,PT Sumber Global Energy Tbk,Energy,Thermal Coal,81.54,130.8,146.19,504.69
+SGRO,PT Prime Agri Resources Tbk,Consumer Defensive,Farm Products,1083.86,1338.89,1495.64,1572.42
+SHID,PT Hotel Sahid Jaya International Tbk,Consumer Cyclical,Lodging,2600.0,780.0,2300.0,650.0
+SHIP,PT Sillo Maritime Perdana Tbk,Energy,Oil & Gas Equipment & Services,516.37,888.82,808.38,973.25
+SIDO,PT Industri Jamu dan Farmasi Sido Muncul Tbk,Consumer Defensive,Packaged Foods,571.25,645.95,588.42,431.49
+SILO,PT Siloam International Hospitals Tbk,Healthcare,Medical Care Facilities,651.83,1033.46,1236.34,2162.9
+SIMP,PT Salim Ivomas Pratama Tbk,Consumer Defensive,Packaged Foods,348.27,380.79,355.55,334.88
+SIPD,PT Sreeya Sewu Indonesia Tbk,Consumer Defensive,Farm Products,1500.0,2000.0,1425.0,1350.0
+SKBM,PT Sekar Bumi Tbk,Consumer Defensive,Packaged Foods,309.78,345.34,366.0,314.0
+SKLT,PT Sekar Laut Tbk,Consumer Defensive,Packaged Foods,133.24,207.3,171.1,250.05
+SKRN,PT Superkrane Mitra Utama Tbk,Industrials,Rental & Leasing Services,105.69,132.97,335.62,383.09
+SLIS,PT Gaya Abadi Sempurna Tbk,Technology,Electronics & Computer Distribution,4885.5,797.63,251.25,75.0
+SMAR,PT Sinar Mas Agro Resources and Technology Tbk,Consumer Defensive,Farm Products,2783.17,3149.83,3810.09,3317.18
+SMBR,PT Semen Baturaja (Persero) Tbk,Basic Materials,Building Materials,1015.06,590.93,367.9,266.37
+SMCB,PT Solusi Bangun Indonesia Tbk,Basic Materials,Building Materials,1208.26,1437.57,1229.6,1185.54
+SMDM,PT Suryamas Dutamakmur Tbk,Real Estate,Real Estate - Development,103.0,196.0,181.0,194.0
+SMDR,PT Samudera Indonesia Tbk,Industrials,Marine Shipping,43.47,155.11,313.01,283.91
+SMGR,PT Semen Indonesia (Persero) Tbk,Basic Materials,Building Materials,10571.04,6282.51,5865.13,5958.78
+SMIL,PT Sarana Mitra Luas Tbk,Industrials,Rental & Leasing Services,,,,117.91
+SMMA,PT Sinar Mas Multiartha Tbk,Financial Services,Insurance - Diversified,9900.0,11750.0,12550.0,14500.0
+SMMT,PT Golden Eagle Energy Tbk,Energy,Thermal Coal,95.57,166.43,587.52,930.0
+SMRA,PT Summarecon Agung Tbk,Real Estate,Real Estate - Development,719.52,770.23,564.28,541.96
+SMRU,,Unknown,Unknown,,,,
+SMSM,PT Selamat Sempurna Tbk,Consumer Cyclical,Auto Parts,926.14,956.64,1147.69,1578.45
+SOCI,PT Soechi Lines Tbk,Industrials,Marine Shipping,259.21,192.44,177.72,179.68
+SOHO,PT Soho Global Health Tbk,Healthcare,Medical Distribution,365.43,548.66,476.26,451.18
+SONA,PT Sona Topas Tourism Industry Tbk,Consumer Cyclical,Travel Services,2931.09,2674.62,2149.47,996.57
+SPMA,PT Suparma Tbk,Basic Materials,Paper & Paper Products,114.64,351.28,281.26,197.34
+SPTO,PT Surya Pertiwi Tbk,Consumer Cyclical,"Furnishings, Fixtures & Appliances",353.11,409.96,380.56,427.56
+SQMI,PT Wilton Makmur Indonesia Tbk.,Basic Materials,Gold,378.0,59.0,68.0,55.0
+SRAJ,PT Sejahteraraya Anugrahjaya Tbk,Healthcare,Medical Care Facilities,204.0,310.0,655.0,300.0
+SRIL,,Unknown,Unknown,,,,
+SRSN,PT Indo Acidatama Tbk,Basic Materials,Chemicals,52.73,50.91,48.13,63.26
+SRTG,PT Saratoga Investama Sedaya Tbk,Financial Services,Asset Management,578.03,2406.35,2212.8,1500.58
+SSIA,PT Surya Semesta Internusa Tbk,Industrials,Engineering & Construction,561.48,472.62,267.56,423.8
+SSMS,PT Sawit Sumbermas Sarana Tbk.,Consumer Defensive,Packaged Foods,885.62,707.68,1216.29,903.16
+STAA,PT Sumber Tani Agung Resources Tbk,Consumer Defensive,Farm Products,,,827.24,756.04
+STAR,PT Calculus Global Ventures Tbk,Financial Services,Asset Management,106.0,149.0,137.0,107.0
+STRK,PT Lovina Beach Brewery Tbk,Consumer Defensive,Beverages - Brewers,,,,51.0
+STTP,PT Siantar Top Tbk,Consumer Defensive,Packaged Foods,9500.0,7550.0,7650.0,9375.0
+SULI,PT SLJ Global Tbk,Basic Materials,Lumber & Wood Production,50.0,50.0,159.0,140.0
+SUPR,PT Solusi Tunas Pratama Tbk,Real Estate,Real Estate Services,4100.0,15475.0,34000.0,39900.0
+SURE,PT Super Energy Tbk,Energy,Oil & Gas Integrated,2530.0,1990.0,1720.0,1100.0
+SURI,PT Maja Agung Latexindo Tbk,Healthcare,Medical Instruments & Supplies,,,,164.0
+TAMU,PT Pelayaran Tamarin Samudra Tbk,Industrials,Marine Shipping,50.0,50.0,50.0,9.0
+TAPG,PT Triputra Agro Persada Tbk,Consumer Defensive,Farm Products,,330.93,356.97,327.47
+TARA,PT Agung Semesta Sejahtera Tbk,Real Estate,Real Estate - Diversified,50.0,50.0,50.0,7.0
+TAXI,PT Express Transindo Utama Tbk,Industrials,Railroads,50.0,50.0,50.0,50.0
+TBIG,PT Tower Bersama Infrastructure Tbk,Communication Services,Telecom Services,1431.23,2629.95,2077.18,1941.9
+TBLA,PT Tunas Baru Lampung Tbk,Consumer Defensive,Packaged Foods,615.52,539.82,532.76,556.68
+TCID,PT. Mandom Indonesia Tbk,Consumer Defensive,Household & Personal Products,3034.48,2507.25,2952.47,2596.81
+TCPI,PT Transcoal Pacific Tbk,Industrials,Marine Shipping,6968.87,10005.3,7917.54,7352.29
+TDPM,,Unknown,Unknown,,,,
+TEBE,PT Dana Brata Luhur Tbk,Industrials,Infrastructure Operations,315.73,393.09,557.1,609.18
+TECH,,Unknown,Unknown,,,,
+TELE,PT Omni Inovasi Indonesia Tbk,Communication Services,Telecom Services,121.0,121.0,50.0,50.0
+TFAS,PT Telefast Indonesia Tbk,Industrials,Staffing & Employment Services,180.0,5125.0,4980.0,680.0
+TFCO,PT Tifico Fiber Indonesia Tbk,Consumer Cyclical,Textile Manufacturing,474.0,710.0,650.0,670.0
+TGKA,PT Tigaraksa Satria Tbk,Consumer Defensive,Food Distribution,5494.33,5510.63,5795.33,5540.1
+TGRA,PT. Terregra Asia Energy Tbk,Utilities,Utilities - Renewable,148.0,90.0,55.0,50.0
+TIFA,PT KDB Tifa Finance Tbk,Financial Services,Credit Services,210.35,590.88,390.08,624.51
+TINS,PT TIMAH Tbk,Basic Materials,Other Industrial Metals & Mining,1265.49,1239.92,1028.78,593.35
+TIRT,PT Tirta Mahakam Resources Tbk,Basic Materials,Lumber & Wood Production,51.0,112.0,51.0,50.0
+TKIM,PT Pabrik Kertas Tjiwi Kimia Tbk,Basic Materials,Paper & Paper Products,9611.05,7367.01,6928.73,7205.9
+TLDN,PT Teladan Prima Agro Tbk,Consumer Defensive,Farm Products,,,465.0,371.15
+TLKM,Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk,Communication Services,Telecom Services,2356.32,3021.0,2906.71,3190.59
+TMAS,PT Temas Tbk.,Industrials,Marine Shipping,9.69,110.62,168.45,139.01
+TOBA,PT TBS Energi Utama Tbk,Energy,Thermal Coal,487.67,1031.61,567.38,294.59
+TOPS,PT Totalindo Eka Persada Tbk,Industrials,Engineering & Construction,50.0,50.0,50.0,9.0
+TOTL,PT Total Bangun Persada Tbk,Industrials,Engineering & Construction,190.1,167.46,173.42,282.55
+TOTO,PT Surya Toto Indonesia Tbk,Industrials,Building Products & Equipment,154.41,149.48,195.54,179.15
+TOWR,PT Sarana Menara Nusantara Tbk.,Real Estate,Real Estate Services,823.8,988.22,989.86,912.86
+TPIA,PT Chandra Asri Pacific Tbk,Basic Materials,Specialty Chemicals,2231.08,1816.02,2550.44,5222.82
+TPMA,PT Trans Power Marine Tbk,Industrials,Marine Shipping,214.17,242.82,297.79,536.54
+TRAM,,Unknown,Unknown,,,,
+TRGU,PT Cerestar Indonesia Tbk,Consumer Defensive,Packaged Foods,,,224.7,177.0
+TRIL,,Unknown,Unknown,,,,
+TRIM,PT Trimegah Sekuritas Indonesia Tbk,Financial Services,Capital Markets,93.84,359.4,225.62,293.51
+TRIN,PT Perintis Triniti Properti Tbk,Real Estate,Real Estate - Development,206.0,248.0,300.0,175.0
+TRIO,,Unknown,Unknown,,,,
+TRST,PT Trias Sentosa Tbk,Consumer Cyclical,Packaging & Containers,388.12,549.0,714.78,587.81
+TSPC,PT Tempo Scan Pacific Tbk,Industrials,Conglomerates,963.31,1089.06,1079.42,1544.07
+TUGU,PT Asuransi Tugu Pratama Indonesia Tbk,Financial Services,Insurance - Diversified,616.16,544.24,623.03,776.43
+UCID,PT Uni-Charm Indonesia Tbk,Consumer Defensive,Household & Personal Products,1310.07,1304.55,1003.88,929.35
+ULTJ,PT Ultrajaya Milk Industry & Trading Company Tbk,Consumer Defensive,Beverages - Non-Alcoholic,1281.14,1328.35,1269.27,1398.29
+UNIC,PT Unggul Indah Cahaya Tbk,Basic Materials,Chemicals,3458.02,9437.84,7776.41,6663.7
+UNSP,PT Bakrie Sumatera Plantations Tbk,Consumer Defensive,Farm Products,114.0,109.0,128.0,113.0
+UNTD,PT Terang Dunia Internusa Tbk,Consumer Cyclical,Auto Manufacturers,,,,
+UNTR,PT United Tractors Tbk,Basic Materials,Other Industrial Metals & Mining,14985.62,12913.38,16069.99,17874.94
+UNVR,PT Unilever Indonesia Tbk,Consumer Defensive,Household & Personal Products,5549.64,3205.13,3783.92,2940.6
+URBN,PT Urban Jakarta Propertindo Tbk.,Real Estate,Real Estate - Development,645.0,580.0,164.0,150.0
+VICI,PT Victoria Care Indonesia Tbk,Consumer Defensive,Household & Personal Products,283.77,479.03,480.85,622.83
+VICO,PT Victoria Investama Tbk,Financial Services,Asset Management,71.77,209.94,156.28,113.4
+VIVA,PT Visi Media Asia Tbk,Communication Services,Broadcasting,50.0,50.0,50.0,50.0
+VKTR,PT VKTR Teknologi Mobilitas Tbk,Consumer Cyclical,Recreational Vehicles,,,,121.0
+VTNY,PT Venteny Fortuna International Tbk,Industrials,Staffing & Employment Services,,,450.0,352.0
+WEGE,PT Wijaya Karya Bangunan Gedung Tbk,Industrials,Engineering & Construction,233.58,176.22,141.63,77.91
+WEHA,PT WEHA Transportasi Indonesia Tbk,Industrials,Railroads,50.2,168.94,93.29,141.63
+WIIM,PT Wismilak Inti Makmur Tbk,Consumer Defensive,Tobacco,369.24,303.67,467.43,1398.19
+WIKA,PT Wijaya Karya (Persero) Tbk,Industrials,Engineering & Construction,1985.0,1105.0,800.0,240.0
+WINE,PT HATTEN BALI Tbk,Consumer Defensive,Beverages - Wineries & Distilleries,,,,401.31
+WINS,PT Wintermar Offshore Marine Tbk,Industrials,Marine Shipping,99.58,178.69,303.41,372.28
+WIRG,PT WIR ASIA Tbk,Technology,Information Technology Services,,,123.0,108.0
+WMPP,PT Widodo Makmur Perkasa Tbk,Industrials,Conglomerates,,160.0,74.0,50.0
+WMUU,PT Widodo Makmur Unggas Tbk,Consumer Defensive,Farm Products,,151.23,85.0,50.0
+WOMF,PT Wahana Ottomitra Multiartha Tbk,Financial Services,Credit Services,199.65,193.37,208.23,311.31
+WOOD,PT Integra Indocabinet Tbk,Consumer Cyclical,"Furnishings, Fixtures & Appliances",551.84,830.59,362.0,288.0
+WSBP,PT Waskita Beton Precast Tbk,Basic Materials,Building Materials,274.0,114.0,95.0,50.0
+WSKT,,Unknown,Unknown,,,,
+WTON,PT Wijaya Karya Beton Tbk,Basic Materials,Building Materials,359.22,231.28,181.19,105.27
+YPAS,PT Yanaprima Hastapersada Tbk,Consumer Cyclical,Packaging & Containers,430.0,800.0,630.0,428.0
+YULE,PT Yulie Sekuritas Indonesia Tbk,Financial Services,Capital Markets,367.8,1501.03,2216.75,2336.03
+ZBRA,PT Dosni Roha Indonesia Tbk,Healthcare,Medical Distribution,94.17,645.0,550.0,460.0
+ZINC,PT Kapuas Prima Coal Tbk,Basic Materials,Other Industrial Metals & Mining,190.0,105.0,50.0,50.0
