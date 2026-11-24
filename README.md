@@ -25,18 +25,28 @@ Proyek ini menggunakan lima kerangka kerja analitik akuntansi, keuangan korporas
 
 ```mermaid
 flowchart TD
-    A["Raw Financial Data<br/>(604 Emiten, 2020-2023)"] --> B["Data Ingestion & Panel Reshaping"]
-    B --> C{"Segmentasi Sektor"}
-    C -->|"Non-Financial Corporates (538)"| D["Model Altman Z''-Score"]
-    C -->|"Financials & Banking (66)"| E["Analisis Khusus Perbankan<br/>(CAR, NIM, Leverage)"]
+    Start([Start]) --> InData[/"Raw Financial Data<br/>(604 Emiten BEI, 2020–2023)"/]
+    
+    InData --> B["Data Ingestion & Panel Reshaping<br/>(Format Tidy Panel 2.319 Observasi)"]
+    InData --> I["Market Enrichment via yfinance<br/>(Sektor, Industri, Harga 2020–2023)"]
+    
+    B --> C{"Apakah Sektor<br/>Bank / Finansial?"}
+    
+    C -->|"Tidak (Non-Financials: 538)"| D["Model Altman Z''-Score<br/>(Solvabilitas Pasar Berkembang)"]
+    C -->|"Ya (Financials: 66)"| E["Analisis Khusus Perbankan<br/>(CAR, NIM, NPL & Permodalan)"]
+    
     D --> F["Dekomposisi DuPont 3-Way<br/>(Margin × Turnover × Leverage)"]
     D --> G["Forensic Sloan Accrual<br/>(Kas Nyata vs Laba Akuntansi)"]
-    A --> I["Market Enrichment via yfinance<br/>(Sektor, Industri, Harga 2020-2023)"]
-    I --> J["Valuasi PER/PBV & Peer Comparison"]
-    F --> H["Streamlit Executive Dashboard & Insights"]
+    
+    I --> J["Valuasi PER/PBV & Peer Comparison<br/>(Analisis Valuasi Lintas Sektor)"]
+    
+    F --> H["Konsolidasi & Sintesis Metrik Finansial"]
     G --> H
     E --> H
     J --> H
+    
+    H --> OutApp[/"Enterprise Streamlit Dashboard (app.py)<br/>& Laporan Evaluasi Strategis"/]
+    OutApp --> End([End])
 ```
 
 ### 1. Pemisahan Sektor Finansial vs Non-Finansial
